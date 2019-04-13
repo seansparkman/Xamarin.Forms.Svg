@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="1.68.0" />
     <PackageReference Include="Xamarin.FFImageLoading" Version="2.4.5.880-pre" />
     <PackageReference Include="Xamarin.FFImageLoading.Forms" Version="2.4.5.880-pre" />
     <PackageReference Include="Xamarin.FFImageLoading.Svg" Version="2.4.5.880-pre" />
