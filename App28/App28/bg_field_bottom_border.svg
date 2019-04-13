@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="2px" viewBox="0 0 201 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>entry field</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Intro/Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="1.1-Zip-Code-Entry" transform="translate(-87.000000, -358.000000)" fill-rule="nonzero" stroke="#231E51">
+            <g id="Entry-Field" transform="translate(88.000000, 325.000000)">
+                <g id="entry-field" transform="translate(0.127341, 33.000000)">
+                    <path d="M2.27373675e-13,1 L33.8726592,1" id="Line"></path>
+                    <path d="M41.25,1 L75.1226592,1" id="Line"></path>
+                    <path d="M82.5,1 L116.372659,1" id="Line"></path>
+                    <path d="M123.75,1 L157.622659,1" id="Line"></path>
+                    <path d="M165,1 L198.872659,1" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
